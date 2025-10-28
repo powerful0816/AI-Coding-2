@@ -1,3 +1,6 @@
 # AI-Coding-2
 AI Coding 2일차
-TEST
+
+링크 : 
+https://aistudio.google.com/
+
