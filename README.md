@@ -7,3 +7,7 @@ https://aistudio.google.com/
 
 리뷰
 https://form.jotform.com/253002569812454
+
+
+실습 제출
+https://form.jotform.com/253028194067458
